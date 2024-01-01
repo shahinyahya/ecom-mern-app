@@ -1,0 +1,5 @@
+ecom-admin/node_modules
+ecom-api/node_modules
+ecom-web-app/node_modules
+node_modules/
+.DS_Store
